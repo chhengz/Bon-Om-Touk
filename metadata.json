@@ -1,0 +1,6 @@
+{
+  "name": "Bon Om Touk — The Cambodian Water Festival",
+  "description": "An immersive cultural archive and celebration of Cambodia's Water and Moon Festival (Bon Om Touk), featuring the Tonle Sap flow reversal, ancient naval boat racing traditions, Loy Pratip illuminated flotillas, and interactive rituals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
